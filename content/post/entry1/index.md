@@ -8,7 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
-tags: ["DDOS"] ["Insider"]
+tags: ["DDOS", "Insider"]
 ---
 
 text goes here: [Mediaworks] (https://www.rnz.co.nz/news/national/512378/403-000-people-s-personal-information-taken-in-mediaworks-cyberattack)
