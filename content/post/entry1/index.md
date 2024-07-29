@@ -17,4 +17,4 @@ text goes here: [Mediaworks][def]
 
 [link to local pdf][def2]
 
-[def2]: "/entry1.pdf"
+[def2]: entry1.pdf
