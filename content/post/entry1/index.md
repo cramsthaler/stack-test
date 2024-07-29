@@ -14,3 +14,7 @@ tags: ["DDOS", "Insider"]
 text goes here: [Mediaworks][def]
 
 [def]: https://www.rnz.co.nz/news/national/512378/403-000-people-s-personal-information-taken-in-mediaworks-cyberattack
+
+[link to local pdf][def2]
+
+[def2]: "/entry1.pdf"
